@@ -23,7 +23,7 @@ Temón es el Trabajo final de la tecnicatura, consiste en una aplicación de str
 * segundo: dentro de la carpeta temon-backend ejecute en la consola "node app.js"
 * tercero: dentro de la carpeta temon hay que crear un archivo llamado PersonalConfig.js y pegar el siguiente contenido, pero hay que agregar la dirección IP    
   export const PersonalConfig = {
-      url: "Direction IP:8080"
+    url: "Direction IP:8080"
   };
 * cuarto: activar el modo desarrollador de tu celular  
 * quinto: conectar tu teléfono con un pendrive y verificar si está bien conectado con el comando “adb devices”
