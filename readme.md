@@ -26,6 +26,6 @@ Temón es el Trabajo final de la tecnicatura, consiste en una aplicación de str
     url: "Direction IP:8080"
   };
 * cuarto: activar el modo desarrollador de tu celular  
-* quinto: conectar tu teléfono con un pendrive y verificar si está bien conectado con el comando “adb devices”
+* quinto: conectar tu teléfono con un pendrive y verifica si está bien conectado con el comando “adb devices”
 * sexto: escribir en la consola el comando "react-native run-android", estando sobre la carpeta temon
 
