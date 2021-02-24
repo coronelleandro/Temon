@@ -1,5 +1,5 @@
 # TEMÓN
-Temón es el Trabajo final de la tecnicatura, consiste en una aplicación de streaming de música pensada para personas que sufren de baja visión.  
+Temón es el Trabajo final de la tecnicatura, consiste en una aplicación de streaming de música pensada para personas que sufren de baja visión, en el que se puede reproducir música de forma normal, poder manejar el reproductor con gestos, además de guardar los temas en el historial, en favoritos y crear playlist.     
 
 
 ### Elementos necesarios para la app
@@ -23,9 +23,8 @@ Temón es el Trabajo final de la tecnicatura, consiste en una aplicación de str
 * segundo: dentro de la carpeta temon-backend ejecute en la consola "node app.js"
 * tercero: dentro de la carpeta temon hay que crear un archivo llamado PersonalConfig.js y pegar el siguiente contenido, pero hay que agregar la dirección IP    
   export const PersonalConfig = {
-    url: "Direction IP:8080"
+      url: "Direction IP:8080"
   };
 * cuarto: activar el modo desarrollador de tu celular  
-* quinto: conectar tu teléfono con un pendrive y verifica si está bien conectado con el comando “adb devices”
+* quinto: conectar tu teléfono con un pendrive y verificar si está bien conectado con el comando “adb devices”
 * sexto: escribir en la consola el comando "react-native run-android", estando sobre la carpeta temon
-
